@@ -1,5 +1,7 @@
-edit
+# aws-amplify-ssr-npx-workshop
 
+This is a demo of the capabilities of npx, node, git, aws, and amplify
+The demo was performed through the publicly made aws workshops
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
