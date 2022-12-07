@@ -1,0 +1,1 @@
+# aws-amplify-ssr-npx-workshop
